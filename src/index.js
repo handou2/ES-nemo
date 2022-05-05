@@ -1,3 +1,3 @@
 // let sum = (x, y) => x + y
 // console.log(sum(4, 5))
-import "./2-3.js";
+import "./2-4.js";

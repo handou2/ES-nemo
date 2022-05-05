@@ -33,6 +33,6 @@
 // foo(obj);
 
 //提取json数据
-let json = '{"a":"hello","b":"world"}';
-let { a, b } = JSON.parse(json);
-console.log(a, b);
+// let json = '{"a":"hello","b":"world"}';
+// let { a, b } = JSON.parse(json);
+// console.log(a, b);
